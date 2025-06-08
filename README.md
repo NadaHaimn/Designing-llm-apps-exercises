@@ -9,14 +9,9 @@ The book focuses on how to use LLMs like GPT-4 to build real-world applications 
 
 Each notebook explores a key concept from the book with hands-on code, explanations, and observations:
 
-| File | Topic |
+| File | Chapter |
 |------|-------|
 | `01_prompt_engineering.ipynb` | Prompt Engineering techniques (zero-shot, few-shot, chain-of-thought) |
-| `02_rag.ipynb` | Retrieval-Augmented Generation (RAG) with vector search |
-| `03_tools.ipynb` | Using tools with LLMs (e.g., calculators, search, custom APIs) |
-| `04_agents.ipynb` | Building agent-based workflows using tools and memory |
-| `05_evaluation.ipynb` | How to evaluate LLM outputs effectively |
-| `06_final_project_agent_app.ipynb` | A full working agent app integrating all the above |
 
 ---
 
@@ -46,14 +41,6 @@ Each notebook explores a key concept from the book with hands-on code, explanati
 - This repo is meant for **learning and experimentation**.
 - All exercises are based on the book's open-source content at [llmbook.com](https://llmbook.com).
 - You're welcome to fork, remix, and build upon it for your own projects.
-
----
-
-## 💡 Author
-
-Made with ❤️ by [Your Name]  
-📧 [your-email@example.com]  
-🔗 GitHub: [github.com/your-username]
 
 ---
 
