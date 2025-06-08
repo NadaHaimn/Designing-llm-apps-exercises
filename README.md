@@ -32,8 +32,6 @@ Each notebook explores a key concept from the book with hands-on code, explanati
 3. Run each cell step-by-step and review the outputs.
 4. Modify prompts and logic to explore your own ideas.
 
-> ⚠️ Important: Always keep your API key private and never share notebooks with your key visible.
-
 ---
 
 ## 📌 Notes
